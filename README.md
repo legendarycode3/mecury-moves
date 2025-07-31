@@ -1,1 +1,1 @@
-# mecury-moves
+# mecury-move
